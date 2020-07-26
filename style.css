@@ -1,0 +1,86 @@
+body {
+	background-size: cover;
+	background-position: center;
+	/* background: linear-gradient(-10deg, #4a1942, #55dde0); */
+	background: linear-gradient(-10deg, #1282a2,  #0a1128);
+	font-family: 'Montserrat', sans-serif;
+}
+
+#header {
+    color: "#01110A";
+	font-size: 4em;
+	text-align: center;
+	padding-top: 1%;
+}
+
+#logo {
+	height: 4em;
+	width: 6em;
+}
+
+#contributers {
+	padding-right: 25%;
+	padding-left: 25%;
+	font-size: larger;
+}
+
+#title {
+	text-align: center;
+	font-size: 3em;
+	padding-bottom: 1%;
+	color: #f6ae2d;
+}
+
+#quote {
+	text-align: center;
+	font-size: 2em;
+	font-style: italic;
+	color: #f87060;
+}
+
+#author {
+	font-size: 1.5em;
+	font-weight: bold;
+	text-align: center;
+	color: #fcb1a6;
+}
+
+#projects {
+	font-size: 1.5em;
+	/* padding-left: 25%; */
+	/* padding-right: 25%; */
+	line-height: 2;
+}
+
+
+#projects :hover {
+	background-color: #86bbd8;
+  }
+
+.project-name {
+	border: 2px solid #393d3f;
+	margin-top: -1px; /* Prevent double borders */
+	background-color: #cfd2cd;
+	padding: 12px;
+	text-decoration: none;
+	font-size: 18px;
+	display: block;
+	position: relative;
+	text-align: center;
+  }
+
+  .alternate {
+	  background-color: #e5e6e4;
+  }
+
+  .link {
+	  text-align: left;
+  }
+
+  #footer {
+	  word-spacing: 3em;
+	  text-align: center;
+  }
+
+  
+  
