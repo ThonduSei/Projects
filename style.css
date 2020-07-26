@@ -1,8 +1,7 @@
 body {
 	background-size: cover;
 	background-position: center;
-	/* background: linear-gradient(-10deg, #4a1942, #55dde0); */
-	background: linear-gradient(-10deg, #1282a2,  #0a1128);
+	background: linear-gradient(-10deg, #0a1128,  #1282a2);
 	font-family: 'Montserrat', sans-serif;
 }
 
